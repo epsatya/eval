@@ -1,0 +1,16 @@
+aiohttp
+beautifulsoup4
+hachoir
+numpy
+Pillow
+pyrogram
+requests
+tgcrypto
+youtube-dl
+olefile
+asyncio
+typing
+Tuple
+mimetypes
+psutil
+time
