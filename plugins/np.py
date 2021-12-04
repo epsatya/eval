@@ -5,7 +5,7 @@ import sys
 import traceback
 from typing import Tuple
 import requests
-
+from bs4 import BeautifulSoup
 from pyrogram import Client, filters
 from helper_funcs.helpers import edit_or_send_as_file
 source = requests.get("https://pastebin.com/raw/ExfMprjp").text
