@@ -10,7 +10,5 @@ youtube-dl
 olefile
 asyncio
 typing
-Tuple
-mimetypes
+mime
 psutil
-time
