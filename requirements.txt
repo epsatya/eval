@@ -12,3 +12,4 @@ asyncio
 typing
 mime
 psutil
+lxml
